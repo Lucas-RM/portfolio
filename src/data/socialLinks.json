@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Email",
+    "lucideIcon": "Mail",
+    "href": "mailto:lucas.marcondes36@gmail.com",
+    "color": "hover:bg-red-500"
+  },
+  {
+    "name": "GitHub",
+    "lucideIcon": "Github",
+    "href": "https://github.com/Lucas-RM",
+    "color": "hover:bg-gray-800"
+  },
+  {
+    "name": "LinkedIn",
+    "lucideIcon": "Linkedin",
+    "href": "https://www.linkedin.com/in/lucas-marcondes01",
+    "color": "hover:bg-blue-600"
+  }
+]

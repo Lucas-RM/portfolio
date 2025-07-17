@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Minimals API",
+    "description": "Criação de  uma API utilizando a técnica de Minimals APIs para o registro de veículos, ampliando suas funcionalidades ao incorporar administradores com regras JWT. Ao explorar o funcionamento da API, familiarizarei com o uso do Swagger, além de trabalhar com testes, garantindo a robustez e confiabilidade do sistema que desenvolvi.",
+    "imageName": "padrao-github",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/padrao-github.webp",
+    "link": "https://github.com/Lucas-RM/minimal-api",
+    "technologies": [
+      "C#",
+      ".NET",
+      "API",
+      "JWT",
+      "Entity Framework",
+      "MySQL"
+    ]
+  },
+  {
+    "title": "Letmeask Plus AI",
+    "description": "Letmeask Plus AI é uma aplicação ideal para lives e streamings em que é possível criar salas de perguntas para responder ao vivo.",
+    "imageName": "letmeask-plus-ai",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/letmeask-plus-ai.webp",
+    "link": "https://github.com/Lucas-RM/letmeask-plus-ai",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Docker",
+      "Apache",
+      "Tailwind CSS",
+      "Vite",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "title": "CRUD com Docker, Apache, Node.js e MySQL",
+    "description": "Ambiente completo de desenvolvimento de um sistema CRUD (Create, Read, Update, Delete) utilizando Node.js, MySQL e servido com Apache HTTP Server, tudo orquestrado com Docker e Docker Compose.",
+    "imageName": "crud-com-docker-apache-nodejs-e-mysql",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/crud-com-docker-apache-nodejs-e-mysql.webp",
+    "link": "https://github.com/Lucas-RM/crud-docker-apache",
+    "technologies": [
+      "JavaScript",
+      "Node.js",
+      "MySQL",
+      "Docker",
+      "CRUD",
+      "Apache"
+    ]
+  },
+  {
+    "title": "API de Notícias DDD",
+    "description": "Desenvolvimento de APIs utilizando DDD para inserir dados de notícias simulando solicitação de um cliente.",
+    "imageName": "padrao-github",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/padrao-github.webp",
+    "link": "https://github.com/Lucas-RM/api-noticias-ddd",
+    "technologies": [
+      "C#",
+      ".NET",
+      "Angular",
+      "JavaScript",
+      "DDD",
+      "API",
+      "Entity Framework",
+      "SQL Server"
+    ]
+  },
+  {
+    "title": "Git Find",
+    "description": "Desenvolvimento de um projeto em React, que utiliza a API do GitHub para permitir a busca de perfis de usuários e seus respectivos repositórios. A aplicação permite que os usuários insiram o nome de um perfil do GitHub e, ao realizar a busca, exibe na tela informações básicas do perfil, além de uma lista de repositórios públicos associados a esse usuário.",
+    "imageName": "git-find",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/git-find.webp",
+    "link": "https://github.com/Lucas-RM/gitfind-react-cli",
+    "link_site": "https://lucas-rm.github.io/gitfind-react-cli",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "github-pages",
+      "api-github"
+    ]
+  },
+  {
+    "title": "API REST To-Do List",
+    "description": "Desenvolvimento de uma aplicação (API REST) de lista de tarefas (To-Do List). A aplicação permite ao usuário criar uma nova tarefa, visualizar todas as tarefas e visualizar uma tarefa específica.",
+    "imageName": "api-rest-to-do-list",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/api-rest-to-do-list.webp",
+    "link": "https://github.com/Lucas-RM/to-do-list",
+    "technologies": [
+      "C#",
+      "Vue.js",
+      "JavaScript",
+      "todo-list",
+      "Entity Framework",
+      "SQL Server",
+      "Bootstrap",
+      "Axios"
+    ]
+  },
+  {
+    "title": "CRUD Angular",
+    "description": "CRUD simples para cadastro de produtos. Ele permite realizar as operações de criação, leitura, atualização e exclusão de produtos em uma aplicação frontend utilizando Angular.",
+    "imageName": "crud-angular",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/crud-angular.webp",
+    "link": "https://github.com/Lucas-RM/crud-angular",
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "json-server",
+      "Components",
+      "Directives"
+    ]
+  },
+  {
+    "title": "FileCrypto",
+    "description": "Implementação de um programa em Python que realiza a criptografia e descriptografia de arquivos utilizando diferentes métodos de criptografia. As funcionalidades principais incluem: Criptografia CYPHER (Matriz), RSA (Chave Pública e Privada), ASCII e HEXADECIMAL",
+    "imageName": "padrao-github",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/padrao-github.webp",
+    "link": "https://github.com/Lucas-RM/FileCrypto",
+    "technologies": [
+      "Python",
+      "Criptografia",
+      "RSA",
+      "Hexadecimal",
+      "ASCII",
+      "Cypher"
+    ]
+  },
+  {
+    "title": "Blog Pessoal NextJS",
+    "description": "Blog pessoal em NextJS dinâmico e com um integração a um serviço de nuvem (Supabase).",
+    "imageName": "blog-pessoal-nextjs",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/blog-pessoal-nextjs.webp",
+    "link": "https://github.com/Lucas-RM/blog-pessoal-nextjs",
+    "technologies": [
+      "Next.js",
+      "JavaScript",
+      "cloud-service",
+      "Supabase",
+      "Tailwind"
+    ]
+  },
+  {
+    "title": "Github Repos WIKI React",
+    "description": "Wiki para salvar alguns repositórios do GitHub. Aprendi a como consumir a API do GitHub e como listar e remover repositórios de interesse.",
+    "imageName": "github-repos-wiki-react",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/github-repos-wiki-react.webp",
+    "link": "https://github.com/Lucas-RM/github-repos-wiki-react",
+    "link_site": "https://lucas-rm.github.io/gitfind-react-cli",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "API",
+      "Styled Components",
+      "Axios",
+      "api-github"
+    ]
+  },
+  {
+    "title": "Tela de Login com Typescript e React",
+    "description": "Desenvolvimento de uma tela de login usando TypeScript contendo uma etapa de autenticação e validação dentro do React.",
+    "imageName": "tela-de-login-com-typescript-e-react",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/tela-de-login-com-typescript-e-react.webp",
+    "link": "https://github.com/Lucas-RM/tela-de-login-typescript-react",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Tela de Login"
+    ]
+  },
+  {
+    "title": "Projeto Inclusao Digital",
+    "description": "Site com conteúdo sobre Inclusão Digital.",
+    "imageName": "projeto-inclusao-digital",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/projeto-inclusao-digital.webp",
+    "link": "https://github.com/Lucas-RM/pesquisa_inclusao_digital",
+    "link_site": "https://lucas-rm.github.io/pesquisa_inclusao_digital",
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "title": "Projeto Agenda",
+    "description": "O projeto agenda é um site que as pessoas podem definir o ano, o mês, o dia e o horário de suas tarefas. Além disso, terá as funções de deletar e de marcar como concluído as tarefas finalizadas.",
+    "imageName": "projeto-agenda",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/projeto-agenda.webp",
+    "link": "https://github.com/Lucas-RM/agenda",
+    "link_site": "https://lucas-rm.github.io/agenda",
+    "technologies": [
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "title": "Clone DIO",
+    "description": "Clone da plataforma DIO, desenvolvido em React utilizando styled-components para a estilização de componentes. O objetivo é replicar a interface e funcionalidades principais da plataforma, proporcionando uma experiência prática no desenvolvimento de interfaces modernas e responsivas.",
+    "imageName": "clone-dio",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/clone-dio.webp",
+    "link": "https://github.com/Lucas-RM/clone-dio",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Styled Components",
+      "Clone DIO",
+      "DIO"
+    ]
+  },
+  {
+    "title": "Calculadora em React",
+    "description": "Site portfólio responsivo com animações suaves e design moderno.",
+    "imageName": "calculadora-em-react",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/calculadora-em-react.webp",
+    "link": "https://github.com/Lucas-RM/calculadora-react-desafio-dio",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Calculator",
+      "Styled Components"
+    ]
+  },
+  {
+    "title": "Alura Flexbox",
+    "description": "Site feito em curso da plataforma Alura com intuito de aprender sobre Flexbox.",
+    "imageName": "alura-flexbox",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/alura-flexbox.webp",
+    "link": "https://github.com/Lucas-RM/alura-flexbox",
+    "link_site": "https://lucas-rm.github.io/alura-flexbox",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Flexbox"
+    ]
+  },
+  {
+    "title": "Projeto Apeperia",
+    "description": "Site feito em curso da plataforma Alura com intuito de aprender sobre Layouts Responsivos (mobile).",
+    "imageName": "projeto-apeperia",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/projeto-apeperia.webp",
+    "link": "https://github.com/Lucas-RM/projeto-apeperia",
+    "link_site": "https://lucas-rm.github.io/projeto-apeperia",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Flexbox"
+    ]
+  },
+  {
+    "title": "Alura Store",
+    "description": "Site feito em curso da plataforma Alura com o objetivo de aprender sobre CSS Grid e a simplificação de layouts.",
+    "imageName": "alura-store",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/alura-store.webp",
+    "link": "https://github.com/Lucas-RM/alura-store",
+    "link_site": "https://lucas-rm.github.io/alura-store",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "CSS Grid"
+    ]
+  },
+  {
+    "title": "Alura MIDI",
+    "description": "Site que toca sons de instrumentos.",
+    "imageName": "alura-midi",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712379/portfolio-projects/alura-midi.webp",
+    "link": "https://github.com/Lucas-RM/alura-midi",
+    "link_site": "https://lucas-rm.github.io/alura-midi",
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "title": "Relógio Online",
+    "description": "Projeto com intuito de representar um relógio em um site.",
+    "imageName": "relogio-online",
+    "image": "https://res.cloudinary.com/lucasmarcondes/image/upload/v1752712640/portfolio-projects/relogio-online.webp",
+    "link": "https://github.com/Lucas-RM/relogio-online",
+    "link_site": "https://lucas-rm.github.io/relogio-online/",
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Relógio"
+    ]
+  }
+]

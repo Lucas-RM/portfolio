@@ -1,0 +1,12 @@
+{
+  "frontend": ["React", "Angular", "HTML5 & CSS3", "Bootstrap"],
+  "backend": ["C#", "Python", "JavaScript", "TypeScript"],
+  "database": ["SQL Server", "MySQL", "MongoDB"],
+  "tools": [
+    "Git & GitHub",
+    "Docker",
+    "Entity Framework",
+    "VS Code & Visual Studio",
+    "Postman"
+  ]
+}

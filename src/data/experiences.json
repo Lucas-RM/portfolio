@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Desenvolvedor de Software",
+    "company": "Sinqia",
+    "period": "2022 - 2023",
+    "location": "São Paulo, SP",
+    "description": [
+      "Atuação nas principais soluções voltadas a Previdência Privada Complementar tanto em manutenções quanto em evoluções de software.",
+      "• Participação no time de Engenharia N2 com manutenção e evolução de soluções para Previdência Privada.",
+      "• Desenvolvimento de SPAs usando AngularJs em paralelo aos backends MVC do .NET Framework 3.5 SP1, aproveitando sistemas legados em seu potencial máximo e melhorando os tempos de carregamento de páginas em até 300%.",
+      "• Atuação em projetos de mais de 27 clientes, com foco em melhorias, testes e deploys.",
+      "• Implementação da funcionalidade “Instituto de Cancelamento”, melhorando processos de gestão.",
+      "• Integração com ferramentas como Jira e Azure DevOps, aplicando práticas ágeis.",
+      "",
+      "Tecnologias: C# | .NET Framework 3.5 e 4.6 | ASP.NET MVC | Angular 8.0 | JavaScript | Entity Framework | GIT | SQL Server."
+    ]
+  }
+]
