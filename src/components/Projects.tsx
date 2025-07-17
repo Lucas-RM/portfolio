@@ -18,7 +18,7 @@ export function Projects() {
   useEffect(() => {
     const loadProjects = async () => {
       try {
-        const projectsResponse = await fetch('./src/data/projects.json')
+        const projectsResponse = await fetch('/data/projects.json')
 
         if (!projectsResponse) {
           throw new Error('Erro ao buscar arquivos JSON.')

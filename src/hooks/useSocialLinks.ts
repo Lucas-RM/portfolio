@@ -16,7 +16,7 @@ export function useSocialLinks() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const socialLinksResponse = await fetch('./src/data/socialLinks.json')
+        const socialLinksResponse = await fetch('/data/socialLinks.json')
 
         if (!socialLinksResponse.ok) {
           throw new Error('Erro ao carregar os contatos.')

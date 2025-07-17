@@ -8,8 +8,19 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+# Build output
+dist/
+build/
+
 # Directory Cloudinary Uploader
-cloudinary-uploader/images/
+scripts/cloudinary-uploader/images/
+
+# Optional: local dev data or temp files
+public/data/
+*.local.json
+
+# Vite cache
+.vite/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json

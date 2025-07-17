@@ -20,8 +20,8 @@ export function Resume() {
     const data = async () => {
       try {
         const [experiencesResponse, educationResResponse] = await Promise.all([
-          fetch('./src/data/experiences.json'),
-          fetch('./src/data/education.json'),
+          fetch('/data/experiences.json'),
+          fetch('/data/education.json'),
         ])
 
         if (!(experiencesResponse.ok && educationResResponse.ok)) {

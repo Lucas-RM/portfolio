@@ -19,7 +19,7 @@ const Main = async () => {
   const originalsDir = process.env.ORIGINALS_DIR || './images/originals'
   const compressedDir = process.env.COMPRESSED_DIR || './images/compressed'
   const cloudFolder = process.env.CLOUD_FOLDER || 'portfolio-projects'
-  const jsonPath = '../src/data/projects.json'
+  const jsonPath = '../../src/data/projects.json'
 
   cloudinary.config({
     cloud_name: process.env.CLOUDINARY_CLOUD_NAME,

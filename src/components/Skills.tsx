@@ -19,8 +19,8 @@ export function Skills() {
     const loadSkills = async () => {
       try {
         const [skillsRes, additionalSkillsRes] = await Promise.all([
-          fetch('./src/data/skills.json'),
-          fetch('./src/data/additionalSkills.json'),
+          fetch('/data/skills.json'),
+          fetch('/data/additionalSkills.json'),
         ])
 
         if (!(skillsRes.ok && additionalSkillsRes.ok)) {
