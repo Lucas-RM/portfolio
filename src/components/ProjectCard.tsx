@@ -31,6 +31,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
       }
     }
 
+    handleExpand()
     window.addEventListener('resize', handleExpand)
     return () => window.removeEventListener('resize', handleExpand)
   }, [])
