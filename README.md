@@ -17,24 +17,36 @@ Portfólio pessoal desenvolvido com tecnologias modernas, apresentando projetos,
 ## 📁 Estrutura do Projeto
 
 ```
+cloudinary-uploader/      # Script para upload de imagens (auxiliar)
+public/
+├── assets/               # Imagens e ícones públicos
+├── curriculo/            # PDF do currículo
+├── index.html            # HTML principal
 src/
-├── components/
-│   ├── ui/           # Componentes Shadcn UI
-│   ├── Header.tsx    # Cabeçalho com navegação
-│   ├── Hero.tsx      # Seção principal
-│   ├── AboutModal.tsx # Modal sobre mim
-│   ├── Skills.tsx    # Seção de habilidades
-│   ├── Projects.tsx  # Seção de projetos
-│   ├── Resume.tsx    # Seção de currículo
-│   └── Footer.tsx    # Rodapé
-├── data/
-│   ├── projects.json # Dados dos projetos
-│   └── skills.json   # Dados das habilidades
-├── lib/
-│   └── utils.ts      # Utilitários
-├── App.tsx           # Componente principal
-├── main.tsx          # Ponto de entrada
-└── index.css         # Estilos globais
+├── components/           # Componentes principais da interface
+│   ├── ui/               # Componentes reutilizáveis do design system (botão, card, avatar, etc.)
+│   ├── Header.tsx        # Cabeçalho e navegação
+│   ├── Hero.tsx          # Seção principal de apresentação
+│   ├── AboutModal.tsx    # Modal com informações sobre mim
+│   ├── Skills.tsx        # Seção de habilidades
+│   ├── Projects.tsx      # Listagem de projetos
+│   ├── ProjectCard.tsx   # Card individual de projeto
+│   ├── ProjectImage.tsx  # Imagem do projeto
+│   ├── Resume.tsx        # Currículo
+│   └── Footer.tsx        # Rodapé
+├── data/                 # Dados estruturados em JSON (projetos, skills, experiências, etc.)
+├── hooks/                # Hooks customizados para lógica de UI e navegação
+├── lib/                  # Utilitários e constantes globais
+├── types/                # Tipagens TypeScript para dados e props
+├── App.tsx               # Componente principal do app
+├── main.tsx              # Ponto de entrada da aplicação
+└── index.css             # Estilos globais
+biome.json                # Configuração do Biome (linter/formatter)
+components.json           # Configuração de componentes Shadcn UI
+package.json              # Dependências e scripts
+vite.config.ts            # Configuração do Vite
+README.md                 # Documentação do projeto
+LICENSE                   # Licença MIT
 ```
 
 ## 🎯 Funcionalidades
@@ -57,8 +69,7 @@ src/
 
 ### Habilidades
 - Categorização por área (Frontend, Backend, Ferramentas, Cloud)
-- Design visual atrativo
-- Competências adicionais
+- Visualização de competências adicionais
 
 ### Projetos
 - Cards com imagens dos projetos
@@ -79,7 +90,7 @@ src/
 ## 🛠️ Como Executar
 
 ### Pré-requisitos
-- Node.js 22.16.0 ou superior
+- Node.js `22.16.0` ou superior
 - npm ou yarn
 
 ### Instalação
@@ -100,13 +111,14 @@ npm run dev
 npm run dev          # Servidor de desenvolvimento
 npm run build        # Build para produção
 npm run preview      # Preview do build
+npm run lint         # Lint e formatação automática (Biome)
 ```
 
 ## 📱 Responsividade
 
 O portfólio é totalmente responsivo e funciona perfeitamente em:
-- Desktop (1024px+)
-- Tablet (768px - 1023px)
+- Desktop (1151px+)
+- Tablet (768px - 1150px)
 - Mobile (320px - 767px)
 
 ## 🎨 Design System
@@ -128,6 +140,9 @@ O portfólio é totalmente responsivo e funciona perfeitamente em:
 - **Botões**: Estados hover, variantes outline/filled
 - **Modais**: Overlay com backdrop blur
 - **Navegação**: Transições suaves
+- **Avatar**: Imagem de perfil estilizada
+- **Paginação**: Controle de navegação entre páginas
+- **Mensagens de erro**: Feedback visual
 
 ## 📊 Performance
 
@@ -135,6 +150,7 @@ O portfólio é totalmente responsivo e funciona perfeitamente em:
 - **Otimização de Imagens**: Compressão e formatos modernos
 - **Bundle Splitting**: Código dividido em chunks
 - **Tree Shaking**: Eliminação de código não utilizado
+- **Uso eficiente de hooks**: Lógica desacoplada e otimizada
 
 ## 🔧 Configurações
 
@@ -153,16 +169,21 @@ O portfólio é totalmente responsivo e funciona perfeitamente em:
 - Path mapping para imports
 - Tipagem completa
 
+### Vite
+- Build rápido e hot reload
+- Configuração otimizada para produção 
+
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) 
+para mais detalhes.
 
 ## 👨‍💻 Autor
 
 **Lucas Marcondes**
-- Email: lucas@example.com
-- GitHub: [@lucasmarcondes](https://github.com/lucasmarcondes)
-- LinkedIn: [Lucas Marcondes](https://linkedin.com/in/lucasmarcondes)
+- Email: lucas.marcondes36@gmail.com
+- GitHub: [@Lucas-RM](https://github.com/Lucas-RM)
+- LinkedIn: [Lucas Marcondes](https://www.linkedin.com/in/lucas-marcondes01)
 
 ---
 
