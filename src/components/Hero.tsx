@@ -95,7 +95,7 @@ export function Hero() {
                   <div className="flex h-72 w-72 items-center justify-center rounded-full bg-gradient-to-br from-muted to-muted/50 font-bold text-6xl text-muted-foreground">
                     <AvatarImage
                       alt="Foto de perfil de Lucas Marcondes"
-                      src="https://media.licdn.com/dms/image/v2/D4D35AQF4unEWrigXng/profile-framedphoto-shrink_200_200/B4DZbRiLkYGUAY-/0/1747272120922?e=1752811200&v=beta&t=AWQk4GQqXv2OE4-nx8G7rh6hoDKkURFGZ3FwmWg5MhI"
+                      src="https://res.cloudinary.com/lucasmarcondes/image/upload/v1752871898/portfolio-projects/lucas-rm.webp"
                     />
                   </div>
                 </div>
